@@ -1,0 +1,36 @@
+<section id="research">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                {% if include.title != '' %}
+                <h2 class="section-title text-center">{{ include.title }}</h2>
+                {% endif %}
+                {% if include_subtitle != '' %}
+                <p class="section-subtitle text-center">{{ include.subtitle }}</p>
+                {% endif %}
+
+                <div class="break">
+                </div>
+                <!--Portfolio Section-->
+                {% for post in site.research_projects %}
+                <div class="wow fadeIn">
+                {% if post.position == "left" %}
+                    {% include content-left.html %}
+                {% endif %}
+
+                {% if post.position == "right" %}
+                    {% include content-right.html %}
+                {% endif %}
+                </div>
+                {% endfor %}
+
+                {% include pagination.html %}
+
+            </div>
+
+            <a class="section-jump text-center" href="#me">
+                <i class="fa fa-angle-down fa-3x"></i>
+            </a>
+        </div>
+    </div>
+</section>

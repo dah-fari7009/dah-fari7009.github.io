@@ -1,7 +1,7 @@
 ---
 layout: inner
 title:  "GoalExplorer "
-position: right
+position: left
 categories: development design
 tags: Java Kotlin Python3 Ruby
 featured_image: "/assets/images/goal-explorer.png"

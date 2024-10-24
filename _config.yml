@@ -33,16 +33,12 @@ enable_nav: true
 portfolio_title: "Work Samples"
 portfolio_subtitle: "Have a look at some projects I have worked:"
 
-about_title: "About Me"
-about_subtitle: "Who I am"
-
-contact_title: "Contact Me"
-contact_subtitle: "Who I am"
 
 # Collections for pages and groups of content
 collections_dir: "pages"
 collections: 
   - projects
+  - research_projects
 
 
 # Build settings
