@@ -15,12 +15,10 @@
           {% if site.description != '' or site.enable_contact == true %}
           <p class="text-center">
             {% if site.description != '' %}
-            {{site.description}}
+              {{site.description}}
             {% endif %}
-
             {% if site.enable_contact == true %}
-            {% include contact-link.html %}
-            {% include contact-modal.html %}
+              {% include contact-link.html %}
             {% endif %}
           </p>
           {% endif %}
