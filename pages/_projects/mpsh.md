@@ -1,7 +1,7 @@
 ---
 layout: inner
 title:  "Mon Petit Shell"
-position: right
+position: left
 categories: development design
 tags: C YAML
 featured_image: "/assets/images/shell.png"

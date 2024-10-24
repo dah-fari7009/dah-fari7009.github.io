@@ -1,7 +1,7 @@
 ---
 layout: inner
 title:  "TankOfTheDead"
-position: right
+position: left
 categories: development design
 tags: Java JavaFX 
 featured_image: "/assets/images/tank.png"

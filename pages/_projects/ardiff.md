@@ -1,7 +1,7 @@
 ---
 layout: inner
 title:  "ARDiff"
-position: right
+position: left
 categories: research tooling quality
 tags: Java Python3
 featured_image: "/assets/images/ardiff.png"
