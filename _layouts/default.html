@@ -1,0 +1,14 @@
+
+<!doctype html>
+<html>
+{% include nav.html %}
+  {% include header.html %}
+
+  <body class="{{ post.title | downcase | replace:' ','-' | replace:',','' | strip_html }}{% if page.category %} category-{{ page.category }}{% endif %}{% if page.layout-class %} layout-{{ page.layout-class }}{% endif %}">
+    <main>
+        <div class="main container" id="top">
+            {{ content }}
+    </main>
+    {% include footer.html %}
+  </body>
+</html>

@@ -1,0 +1,24 @@
+<!doctype html>
+<html>
+  {% include nav.html %}
+  {% include header.html %}
+
+  <body class="{{ post.title | downcase | replace:' ','-' | replace:',','' | strip_html }}{% if page.category %} category-{{ page.category }}{% endif %}{% if page.layout-class %} layout-{{ page.layout-class }}{% endif %}">
+  <main>
+    <div class="main container" id="top">
+      {% include home-hero.html %}
+      {% include portfolio.html title="Work Samples" subtitle="Have a look at a few projects I have worked on: " %}
+        
+
+    <div class="break">
+    </div>
+    <!-- About me section-->
+    {% include about.html title="Who am I ?" %}
+
+    <div class="break">
+    </div>
+  </main>
+
+    {% include footer.html %}
+  </body>
+</html>
