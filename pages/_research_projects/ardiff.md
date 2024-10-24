@@ -12,5 +12,5 @@ lead_text: ""
 
 ---
 
-Refactored some of your code and now it doesn't work as it used too? Use this open-source formal equivalence checker for Java programs on both version of your codes to check if they're still the same, without needing to run anything! Also, check out the [FSE paper](https://people.ece.ubc.ca/~mjulia/publications/ARDiff_2020.pdf) for this tool.
+Refactored some of your code and now it doesn't work as it used too? Use this open-source formal equivalence checker for Java programs on both version of your codes to check if they're still the same, without needing to run anything! Check out the [FSE paper](https://people.ece.ubc.ca/~mjulia/publications/ARDiff_2020.pdf) for this tool. Also, got awared the ACM SIGSOFT CAPS and Travel Grant to present this work at ESEC/FSE 2022.
 <!-- maybe put graph from fse presentation -->
