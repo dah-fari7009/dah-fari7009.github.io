@@ -1,0 +1,21 @@
+_site
+.sass-cache
+.jekyll-cache
+.jekyll-metadata
+vendor
+
+
+#For MACOS
+.DS_Store
+
+_site
+.sass-cache
+.jekyll-metadata
+package-lock.json
+Gemfile.lock
+
+#For project/workspace configurations
+.project
+.classpath
+.vscode
+.idea
