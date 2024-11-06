@@ -12,4 +12,4 @@ lead_text: ""
 
 ---
 
-Wanna find your next TV to binge, a Netflix date, a like-minded friend, a stranger to watch your guilty pleasure movie with? Use Netflix and Chill today!
+Wanna find your next TV show to binge, a Netflix date, a like-minded friend, a stranger to watch your guilty pleasure movie with? Use Netflix and Chill today!

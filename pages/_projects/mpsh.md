@@ -4,7 +4,8 @@ title:  "Mon Petit Shell"
 position: left
 categories: development design
 tags: C YAML
-featured_image: "/assets/images/shell.png"
+featured_image: "/assets/demos/mpsh.gif"
+#"/assets/images/shell.png"
 project_link: "https://github.com/dah-fari7009/MonPetitShell"
 button_icon: "github"
 button_text: "See code"
