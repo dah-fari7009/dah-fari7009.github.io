@@ -4,7 +4,7 @@ title:  "A Maz3D"
 position: right
 categories: development design
 tags: Java JavaFX Unity Blender
-featured_image: "/assets/images/amaz3d.png"
+featured_image: "/assets/demos/maze.gif"
 project_link: "https://github.com/dah-fari7009/AMaZ3D"
 button_icon: "github"
 button_text: "See code"
