@@ -2,9 +2,9 @@
   link: /
 - name: Projects
   link: \#portfolio
-- name: About me
-  link: \#me
 - name: Research
   link: \#research
+- name: About me
+  link: \#me
 - name: Misc
   link: /misc

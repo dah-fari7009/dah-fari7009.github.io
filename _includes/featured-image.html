@@ -1,10 +1,10 @@
   {% if post.featured_image %}
     {% if post.paper_link %}
     <a href="{{post.paper_link}}">
-      <img class="img-responsive" src="{{ post.featured_image }}" title="{{ post.title }}">
+      <img class="img-fluid" src="{{ post.featured_image }}" title="{{ post.title }}">
     </a>
   
     {% else %}
-    <img class="img-responsive" src="{{ post.featured_image }}" title="{{ post.title }}">
+    <img class="img-fluid" src="{{ post.featured_image }}" title="{{ post.title }}">
     {% endif %}
   {% endif %}

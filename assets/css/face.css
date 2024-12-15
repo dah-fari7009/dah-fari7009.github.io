@@ -1,0 +1,19 @@
+/*--------------------------------------------------------------
+	3.1 About me
+---------------------------------------------------------------*/
+#left-eye:hover {
+    fill: "red"
+}
+#right-eye:hover {
+    fill: "green"
+}
+#left-cheek:hover {
+    fill: "blue"
+}
+#right-cheek:hover {
+    fill: "yellow"
+}
+#chin:hover {
+    fill: "pink"
+}
+  
