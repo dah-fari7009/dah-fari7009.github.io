@@ -11,6 +11,5 @@ button_text: "See code"
 lead_text: ""
 
 ---
-<!-- TODO ADD DEMO AFTER CLEANUP AND GETTING CODE TO RUN -->
 Get immersed in this 3D labyrinth game in solo or compete with your friends in multiplayer mode, using randomly generated mazes or your own. 
 Not the most eye-catching project but you can chose your difficulty level, beware of monsters or other surprises and have fun :)
